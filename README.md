@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Souleymaneawe
 - 👀 I’m interested in Data Science
-- 🌱 I am currently following a project-guided training program offered by Orange Digital Center in collaboration with Coursera, the global leader in online learning.
-     My training is primarily focused on science and the manipulation of data in order to extract useful and actionable insights.
+- 🌱 I am following Professional Certificate Training at Google, IBM, MICROSOFT, and META in collaboration with Coursera, the global leader in online learning.
+     My training primarily focuses on Data analytics to extract useful and actionable insights.
 - 💞️ I am looking to collaborate on ambitious IT projects.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Data Enthusiast
+- ⚡ Fun fact: Data_Everywhere
 
 <!---
 Souleymaneawe/Souleymaneawe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
